@@ -9,10 +9,6 @@
 4.	Create new package name net.pizzashop.automation.
 5.	Under net.pizzashop.automation create new class name Base.
 6.	For setup driver write the following code
-
 <img width="576" alt="3" src="https://user-images.githubusercontent.com/31739314/57185374-66e14800-6eca-11e9-97c4-19ab75110a14.png">
-
 When I set driver findElement(By.id("loginLink")) and click its shows logIn page.
-
-
 <img width="576" alt="2" src="https://user-images.githubusercontent.com/31739314/57185349-d4d93f80-6ec9-11e9-93c2-2a46957559de.png">
